@@ -37,7 +37,7 @@ pipeline {
             }
         }
     }
-
+//
     post {
         success {
             echo 'Build et analyse terminés avec succès !'
